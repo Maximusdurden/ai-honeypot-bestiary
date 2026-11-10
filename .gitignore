@@ -1,0 +1,61 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Test and lint caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*-service-account*.json
+credentials/
+secrets/
+
+# Local data: captured records, downloaded art, databases
+data/
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+artifacts/
+
+# Generated per-deployment artifacts
+canaries.json
+docs/field_guide.json
+docs/FIELD_GUIDE.md
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Private deny-list of literal deployment identifiers (see tests/test_no_private_leakage.py)
+private_denylist.txt
+

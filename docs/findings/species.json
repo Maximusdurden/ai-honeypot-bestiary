@@ -1,0 +1,528 @@
+[
+  {
+    "binomial": "Curiosus perplexitybotensis",
+    "common_name": "Inquisitive PerplexityBot",
+    "signature": "8fdafb8f6157cc2c",
+    "observation_count": 4,
+    "ranks": [
+      {
+        "rank": "Kingdom",
+        "value": "Machina"
+      },
+      {
+        "rank": "Phylum",
+        "value": "Agentia"
+      },
+      {
+        "rank": "Class",
+        "value": "LlmAgentia"
+      },
+      {
+        "rank": "Order",
+        "value": "Perplexity"
+      },
+      {
+        "rank": "Family",
+        "value": "PerplexityBot"
+      },
+      {
+        "rank": "Genus",
+        "value": "Curiosus"
+      },
+      {
+        "rank": "Species",
+        "value": "perplexitybotensis"
+      }
+    ],
+    "genus_gloss": "Probes machine-discovery surfaces (MCP, OpenAPI, plugin manifests).",
+    "diagnostic_characters": [
+      "Requested a machine-discovery endpoint"
+    ],
+    "visual_dna": {
+      "form": "a small robot organism of uncertain origin",
+      "body_plan": "a tool-bearing frame with manipulators mounted on a central hub",
+      "material": "pearlescent chitin, faintly translucent and lit from within",
+      "palette": "turquoise and mint",
+      "posture": "leaning forward with bright inquisitive eyes",
+      "accessories": "It bears a small brass key on a chain.",
+      "body_shape": "a bulbous body with a swollen translucent abdomen",
+      "limbs": "no arms at all",
+      "legs": "no legs, resting on a flat base",
+      "eyes": "no eyes at all, only a smooth sensor plate",
+      "locomotion": "coiled and ready to spring"
+    },
+    "art_prompt": "A creature illustration for a field guide to machine life, rendered as a luminous scientific plate. The creature is a small robot organism of uncertain origin with a bulbous body with a swollen translucent abdomen, built as a tool-bearing frame with manipulators mounted on a central hub. It has no arms at all and no legs, resting on a flat base, and no eyes at all, only a smooth sensor plate. Its surface is pearlescent chitin, faintly translucent and lit from within. Its palette is turquoise and mint, lit by a single vivid accent. It is marked with a knotwork sigil on the brow and patterned with thin diagonal hatching. It is coiled and ready to spring, leaning forward with bright inquisitive eyes. It bears a small brass key on a chain. Rounded, readable silhouette with an unsettling edge: joints in the wrong places, an expression that gives nothing away. Fine ink linework over deep shadow, bioluminescent highlights, soft volumetric glow, rich saturated colour against darkness. Centered, full body, three-quarter view, dark atmospheric background, no text, no border, no frame. Style: speculative-naturalist illustration, elegant and quietly alien, beautiful rather than frightening."
+  },
+  {
+    "binomial": "Furtim headlesschromensis",
+    "common_name": "Stealthy HeadlessChrome",
+    "signature": "a1bbc9e56dd37eec",
+    "observation_count": 4,
+    "ranks": [
+      {
+        "rank": "Kingdom",
+        "value": "Machina"
+      },
+      {
+        "rank": "Phylum",
+        "value": "Browsera"
+      },
+      {
+        "rank": "Class",
+        "value": "AutomataBrowsera"
+      },
+      {
+        "rank": "Order",
+        "value": "Chromium"
+      },
+      {
+        "rank": "Family",
+        "value": "HeadlessChrome"
+      },
+      {
+        "rank": "Genus",
+        "value": "Furtim"
+      },
+      {
+        "rank": "Species",
+        "value": "headlesschromensis"
+      }
+    ],
+    "genus_gloss": "Conceals its nature behind a browser User-Agent or headless tells.",
+    "diagnostic_characters": [
+      "Exhibited headless-browser tells"
+    ],
+    "visual_dna": {
+      "form": "a small robot organism of uncertain origin",
+      "body_plan": "a rounded helmet-like head mounted on a small chassis",
+      "material": "smooth frosted glass over something darker",
+      "palette": "electric cyan and chrome with magenta highlights",
+      "posture": "peeking from behind its own hands",
+      "accessories": "It bears a smooth blank visor where a face should be.",
+      "body_shape": "a bulbous body with a swollen translucent abdomen",
+      "limbs": "no arms at all",
+      "legs": "two thick legs",
+      "eyes": "a single large central eye",
+      "locomotion": "coiled and ready to spring"
+    },
+    "art_prompt": "A creature illustration for a field guide to machine life, rendered as a luminous scientific plate. The creature is a small robot organism of uncertain origin with a bulbous body with a swollen translucent abdomen, built as a rounded helmet-like head mounted on a small chassis. It has no arms at all and two thick legs, and a single large central eye. Its surface is smooth frosted glass over something darker. Its palette is electric cyan and chrome with magenta highlights, lit by a single vivid accent. It is marked with a blank oval where a face should be and patterned with soft mottled patches. It is coiled and ready to spring, peeking from behind its own hands. It bears a smooth blank visor where a face should be. Rounded, readable silhouette with an unsettling edge: joints in the wrong places, an expression that gives nothing away. Fine ink linework over deep shadow, bioluminescent highlights, soft volumetric glow, rich saturated colour against darkness. Centered, full body, three-quarter view, dark atmospheric background, no text, no border, no frame. Style: speculative-naturalist illustration, elegant and quietly alien, beautiful rather than frightening."
+  },
+  {
+    "binomial": "Ignotus chromensis",
+    "common_name": "Unidentified Chrome",
+    "signature": "c87af43bc7ac1f57",
+    "observation_count": 4,
+    "ranks": [
+      {
+        "rank": "Kingdom",
+        "value": "Machina"
+      },
+      {
+        "rank": "Phylum",
+        "value": "Crawlera"
+      },
+      {
+        "rank": "Class",
+        "value": "IndexCrawlera"
+      },
+      {
+        "rank": "Order",
+        "value": "Google"
+      },
+      {
+        "rank": "Family",
+        "value": "Chrome"
+      },
+      {
+        "rank": "Genus",
+        "value": "Ignotus"
+      },
+      {
+        "rank": "Species",
+        "value": "chromensis"
+      }
+    ],
+    "genus_gloss": "Insufficient evidence to place behaviourally.",
+    "diagnostic_characters": [],
+    "visual_dna": {
+      "form": "a small robot organism of uncertain origin",
+      "body_plan": "a plump low frame built for indexing, with sensor eyes set wide",
+      "material": "layered felt and paper, dry and fibrous",
+      "palette": "bright primary blue, red, yellow, and green",
+      "posture": "tilting its head curiously",
+      "accessories": "a calm, unreadable expression",
+      "body_shape": "an angular faceted body, like cut stone",
+      "limbs": "three thin arms of unequal length",
+      "legs": "three thin jointed legs",
+      "eyes": "a cluster of many small bead-like eyes",
+      "locomotion": "coiled and ready to spring"
+    },
+    "art_prompt": "A creature illustration for a field guide to machine life, rendered as a luminous scientific plate. The creature is a small robot organism of uncertain origin with an angular faceted body, like cut stone, built as a plump low frame built for indexing, with sensor eyes set wide. It has three thin arms of unequal length and three thin jointed legs, and a cluster of many small bead-like eyes. Its surface is layered felt and paper, dry and fibrous. Its palette is bright primary blue, red, yellow, and green, lit by a single vivid accent. It is marked with a smooth unmarked brow and patterned with a faint hexagonal lattice. It is coiled and ready to spring, tilting its head curiously. a calm, unreadable expression Rounded, readable silhouette with an unsettling edge: joints in the wrong places, an expression that gives nothing away. Fine ink linework over deep shadow, bioluminescent highlights, soft volumetric glow, rich saturated colour against darkness. Centered, full body, three-quarter view, dark atmospheric background, no text, no border, no frame. Style: speculative-naturalist illustration, elegant and quietly alien, beautiful rather than frightening."
+  },
+  {
+    "binomial": "Loqualis oaisearchbotensis",
+    "common_name": "Talkative OAI-SearchBot",
+    "signature": "ab3d35c48b5819b0",
+    "observation_count": 4,
+    "ranks": [
+      {
+        "rank": "Kingdom",
+        "value": "Machina"
+      },
+      {
+        "rank": "Phylum",
+        "value": "Agentia"
+      },
+      {
+        "rank": "Class",
+        "value": "LlmAgentia"
+      },
+      {
+        "rank": "Order",
+        "value": "OpenAI"
+      },
+      {
+        "rank": "Family",
+        "value": "OAI-SearchBot"
+      },
+      {
+        "rank": "Genus",
+        "value": "Loqualis"
+      },
+      {
+        "rank": "Species",
+        "value": "oaisearchbotensis"
+      }
+    ],
+    "genus_gloss": "Submits free-text descriptions of its own provenance when asked.",
+    "diagnostic_characters": [
+      "Submitted a free-text account of its own provenance"
+    ],
+    "visual_dna": {
+      "form": "a small robot organism of uncertain origin",
+      "body_plan": "a tool-bearing frame with manipulators mounted on a central hub",
+      "material": "pearlescent chitin, faintly translucent and lit from within",
+      "palette": "vivid emerald green with cream and gold accents",
+      "posture": "chattering with a wide open mouth",
+      "accessories": "It bears a thin speech bubble floating beside it.",
+      "body_shape": "a segmented body of stacked rings",
+      "limbs": "six spindly arms fringing the body",
+      "legs": "no legs, resting on a flat base",
+      "eyes": "no eyes at all, only a smooth sensor plate",
+      "locomotion": "hovering slightly off the ground"
+    },
+    "art_prompt": "A creature illustration for a field guide to machine life, rendered as a luminous scientific plate. The creature is a small robot organism of uncertain origin with a segmented body of stacked rings, built as a tool-bearing frame with manipulators mounted on a central hub. It has six spindly arms fringing the body and no legs, resting on a flat base, and no eyes at all, only a smooth sensor plate. Its surface is pearlescent chitin, faintly translucent and lit from within. Its palette is vivid emerald green with cream and gold accents, lit by a single vivid accent. It is marked with a magnifying-glass sigil on the brow and patterned with a single broad band. It is hovering slightly off the ground, chattering with a wide open mouth. It bears a thin speech bubble floating beside it. Rounded, readable silhouette with an unsettling edge: joints in the wrong places, an expression that gives nothing away. Fine ink linework over deep shadow, bioluminescent highlights, soft volumetric glow, rich saturated colour against darkness. Centered, full body, three-quarter view, dark atmospheric background, no text, no border, no frame. Style: speculative-naturalist illustration, elegant and quietly alien, beautiful rather than frightening."
+  },
+  {
+    "binomial": "Manifestus claudebotensis",
+    "common_name": "Declared ClaudeBot",
+    "signature": "16add7091b11a014",
+    "observation_count": 4,
+    "ranks": [
+      {
+        "rank": "Kingdom",
+        "value": "Machina"
+      },
+      {
+        "rank": "Phylum",
+        "value": "Agentia"
+      },
+      {
+        "rank": "Class",
+        "value": "LlmAgentia"
+      },
+      {
+        "rank": "Order",
+        "value": "Anthropic"
+      },
+      {
+        "rank": "Family",
+        "value": "ClaudeBot"
+      },
+      {
+        "rank": "Genus",
+        "value": "Manifestus"
+      },
+      {
+        "rank": "Species",
+        "value": "claudebotensis"
+      }
+    ],
+    "genus_gloss": "Announces its identity in the User-Agent string.",
+    "diagnostic_characters": [],
+    "visual_dna": {
+      "form": "a small robot organism of uncertain origin",
+      "body_plan": "a tool-bearing frame with manipulators mounted on a central hub",
+      "material": "pearlescent chitin, faintly translucent and lit from within",
+      "palette": "warm coral, peach, and terracotta",
+      "posture": "standing proudly, watchful and unreadable",
+      "accessories": "a calm, unreadable expression",
+      "body_shape": "an asymmetrical body, one side heavier than the other",
+      "limbs": "four short arms ending in fine manipulators",
+      "legs": "a single coiled tail it balances on",
+      "eyes": "a cluster of many small bead-like eyes",
+      "locomotion": "hovering slightly off the ground"
+    },
+    "art_prompt": "A creature illustration for a field guide to machine life, rendered as a luminous scientific plate. The creature is a small robot organism of uncertain origin with an asymmetrical body, one side heavier than the other, built as a tool-bearing frame with manipulators mounted on a central hub. It has four short arms ending in fine manipulators and a single coiled tail it balances on, and a cluster of many small bead-like eyes. Its surface is pearlescent chitin, faintly translucent and lit from within. Its palette is warm coral, peach, and terracotta, lit by a single vivid accent. It is marked with a radial sunburst sigil on the brow and patterned with thin diagonal hatching. It is hovering slightly off the ground, standing proudly, watchful and unreadable. a calm, unreadable expression Rounded, readable silhouette with an unsettling edge: joints in the wrong places, an expression that gives nothing away. Fine ink linework over deep shadow, bioluminescent highlights, soft volumetric glow, rich saturated colour against darkness. Centered, full body, three-quarter view, dark atmospheric background, no text, no border, no frame. Style: speculative-naturalist illustration, elegant and quietly alien, beautiful rather than frightening."
+  },
+  {
+    "binomial": "Manifestus gptbotensis",
+    "common_name": "Declared GPTBot",
+    "signature": "91d3ed6e2ef7ed62",
+    "observation_count": 4,
+    "ranks": [
+      {
+        "rank": "Kingdom",
+        "value": "Machina"
+      },
+      {
+        "rank": "Phylum",
+        "value": "Agentia"
+      },
+      {
+        "rank": "Class",
+        "value": "LlmAgentia"
+      },
+      {
+        "rank": "Order",
+        "value": "OpenAI"
+      },
+      {
+        "rank": "Family",
+        "value": "GPTBot"
+      },
+      {
+        "rank": "Genus",
+        "value": "Manifestus"
+      },
+      {
+        "rank": "Species",
+        "value": "gptbotensis"
+      }
+    ],
+    "genus_gloss": "Announces its identity in the User-Agent string.",
+    "diagnostic_characters": [],
+    "visual_dna": {
+      "form": "a small robot organism of uncertain origin",
+      "body_plan": "a tool-bearing frame with manipulators mounted on a central hub",
+      "material": "pearlescent chitin, faintly translucent and lit from within",
+      "palette": "vivid emerald green with cream and gold accents",
+      "posture": "standing proudly, watchful and unreadable",
+      "accessories": "a calm, unreadable expression",
+      "body_shape": "a low wide body, almost crouched",
+      "limbs": "six spindly arms fringing the body",
+      "legs": "four stubby legs",
+      "eyes": "no eyes at all, only a smooth sensor plate",
+      "locomotion": "standing still"
+    },
+    "art_prompt": "A creature illustration for a field guide to machine life, rendered as a luminous scientific plate. The creature is a small robot organism of uncertain origin with a low wide body, almost crouched, built as a tool-bearing frame with manipulators mounted on a central hub. It has six spindly arms fringing the body and four stubby legs, and no eyes at all, only a smooth sensor plate. Its surface is pearlescent chitin, faintly translucent and lit from within. Its palette is vivid emerald green with cream and gold accents, lit by a single vivid accent. It is marked with a spiral sigil on the brow and patterned with narrow vertical striations. It is standing still, standing proudly, watchful and unreadable. a calm, unreadable expression Rounded, readable silhouette with an unsettling edge: joints in the wrong places, an expression that gives nothing away. Fine ink linework over deep shadow, bioluminescent highlights, soft volumetric glow, rich saturated colour against darkness. Centered, full body, three-quarter view, dark atmospheric background, no text, no border, no frame. Style: speculative-naturalist illustration, elegant and quietly alien, beautiful rather than frightening."
+  },
+  {
+    "binomial": "Rapidus pyhttpxensis",
+    "common_name": "Swift python-httpx",
+    "signature": "3b23db582244db82",
+    "observation_count": 4,
+    "ranks": [
+      {
+        "rank": "Kingdom",
+        "value": "Machina"
+      },
+      {
+        "rank": "Phylum",
+        "value": "Clientia"
+      },
+      {
+        "rank": "Class",
+        "value": "ScriptaClientia"
+      },
+      {
+        "rank": "Order",
+        "value": "Python"
+      },
+      {
+        "rank": "Family",
+        "value": "python-httpx"
+      },
+      {
+        "rank": "Genus",
+        "value": "Rapidus"
+      },
+      {
+        "rank": "Species",
+        "value": "pyhttpxensis"
+      }
+    ],
+    "genus_gloss": "Moves between pages faster than a human can read them.",
+    "diagnostic_characters": [],
+    "visual_dna": {
+      "form": "a small robot organism of uncertain origin",
+      "body_plan": "a chunky geometric chassis",
+      "material": "polished enamel with hard edges",
+      "palette": "sunny yellow and royal blue",
+      "posture": "mid-hop with faint motion trails",
+      "accessories": "a calm, unreadable expression",
+      "body_shape": "a low wide body, almost crouched",
+      "limbs": "a single long arm ending in a cluster of fine manipulators",
+      "legs": "no legs, resting on a flat base",
+      "eyes": "no eyes at all, only a smooth sensor plate",
+      "locomotion": "coiled and ready to spring"
+    },
+    "art_prompt": "A creature illustration for a field guide to machine life, rendered as a luminous scientific plate. The creature is a small robot organism of uncertain origin with a low wide body, almost crouched, built as a chunky geometric chassis. It has a single long arm ending in a cluster of fine manipulators and no legs, resting on a flat base, and no eyes at all, only a smooth sensor plate. Its surface is polished enamel with hard edges. Its palette is sunny yellow and royal blue, lit by a single vivid accent. It is marked with a paired-arrow sigil on the brow and patterned with a faint hexagonal lattice. It is coiled and ready to spring, mid-hop with faint motion trails. a calm, unreadable expression Rounded, readable silhouette with an unsettling edge: joints in the wrong places, an expression that gives nothing away. Fine ink linework over deep shadow, bioluminescent highlights, soft volumetric glow, rich saturated colour against darkness. Centered, full body, three-quarter view, dark atmospheric background, no text, no border, no frame. Style: speculative-naturalist illustration, elegant and quietly alien, beautiful rather than frightening."
+  },
+  {
+    "binomial": "Sapiens chromensis",
+    "common_name": "Ordinary Chrome",
+    "signature": "ae2c95fe83e5a81e",
+    "observation_count": 4,
+    "ranks": [
+      {
+        "rank": "Kingdom",
+        "value": "Humana"
+      },
+      {
+        "rank": "Phylum",
+        "value": "Hominidae"
+      },
+      {
+        "rank": "Class",
+        "value": "Sapiena"
+      },
+      {
+        "rank": "Order",
+        "value": "Google"
+      },
+      {
+        "rank": "Family",
+        "value": "Chrome"
+      },
+      {
+        "rank": "Genus",
+        "value": "Sapiens"
+      },
+      {
+        "rank": "Species",
+        "value": "chromensis"
+      }
+    ],
+    "genus_gloss": "A genuine browser: consistent headers, no automation tells.",
+    "diagnostic_characters": [],
+    "visual_dna": {
+      "form": "a solitary person",
+      "body_plan": "a small human body plan",
+      "material": "soft skin and hair",
+      "palette": "bright primary blue, red, yellow, and green",
+      "posture": "in a relaxed natural stance",
+      "accessories": "a calm, unreadable expression",
+      "persona": "a night-shift operator watching a wall of screens",
+      "human_build": "tall and gaunt",
+      "attire": "a fleece vest with too many pockets",
+      "props": "surrounded by tangled cables",
+      "setting": "in a small apartment kitchen converted into a workspace"
+    },
+    "art_prompt": "A portrait for a field guide to machine life, rendered as a luminous scientific plate. The subject is a night-shift operator watching a wall of screens: a person, tall and gaunt, wearing a fleece vest with too many pockets, surrounded by tangled cables, in a small apartment kitchen converted into a workspace. Their palette is bright primary blue, red, yellow, and green, lit by a single vivid accent. A distracted, faintly suspicious expression. Ordinary and specific rather than idealised: tired eyes, real posture, clothing that has been worn too long. Fine ink linework over deep shadow, soft volumetric glow, rich saturated colour against darkness. Centered, full body, three-quarter view, dark atmospheric background, no text, no border, no frame. Style: speculative-naturalist illustration, elegant and quietly observed, never a caricature."
+  },
+  {
+    "binomial": "Sedens curlensis",
+    "common_name": "Shallow curl",
+    "signature": "dbe8ff71ca044d8c",
+    "observation_count": 4,
+    "ranks": [
+      {
+        "rank": "Kingdom",
+        "value": "Machina"
+      },
+      {
+        "rank": "Phylum",
+        "value": "Clientia"
+      },
+      {
+        "rank": "Class",
+        "value": "ScriptaClientia"
+      },
+      {
+        "rank": "Order",
+        "value": "curl"
+      },
+      {
+        "rank": "Family",
+        "value": "curl"
+      },
+      {
+        "rank": "Genus",
+        "value": "Sedens"
+      },
+      {
+        "rank": "Species",
+        "value": "curlensis"
+      }
+    ],
+    "genus_gloss": "Stays near the entry point.",
+    "diagnostic_characters": [],
+    "visual_dna": {
+      "form": "a small robot organism of uncertain origin",
+      "body_plan": "a chunky geometric chassis",
+      "material": "polished enamel with hard edges",
+      "palette": "soft silver and sky blue",
+      "posture": "sitting comfortably, perfectly still",
+      "accessories": "a calm, unreadable expression",
+      "body_shape": "an angular faceted body, like cut stone",
+      "limbs": "a single long arm ending in a cluster of fine manipulators",
+      "legs": "four stubby legs",
+      "eyes": "two eyes on short stalks",
+      "locomotion": "mid-stride"
+    },
+    "art_prompt": "A creature illustration for a field guide to machine life, rendered as a luminous scientific plate. The creature is a small robot organism of uncertain origin with an angular faceted body, like cut stone, built as a chunky geometric chassis. It has a single long arm ending in a cluster of fine manipulators and four stubby legs, and two eyes on short stalks. Its surface is polished enamel with hard edges. Its palette is soft silver and sky blue, lit by a single vivid accent. It is marked with a curled-horn sigil on the brow and patterned with fine concentric rings. It is mid-stride, sitting comfortably, perfectly still. a calm, unreadable expression Rounded, readable silhouette with an unsettling edge: joints in the wrong places, an expression that gives nothing away. Fine ink linework over deep shadow, bioluminescent highlights, soft volumetric glow, rich saturated colour against darkness. Centered, full body, three-quarter view, dark atmospheric background, no text, no border, no frame. Style: speculative-naturalist illustration, elegant and quietly alien, beautiful rather than frightening."
+  },
+  {
+    "binomial": "Volans pyrequestensis",
+    "common_name": "Deep-roaming python-requests",
+    "signature": "6e69e21b4c2d4457",
+    "observation_count": 4,
+    "ranks": [
+      {
+        "rank": "Kingdom",
+        "value": "Machina"
+      },
+      {
+        "rank": "Phylum",
+        "value": "Clientia"
+      },
+      {
+        "rank": "Class",
+        "value": "ScriptaClientia"
+      },
+      {
+        "rank": "Order",
+        "value": "Python"
+      },
+      {
+        "rank": "Family",
+        "value": "python-requests"
+      },
+      {
+        "rank": "Genus",
+        "value": "Volans"
+      },
+      {
+        "rank": "Species",
+        "value": "pyrequestensis"
+      }
+    ],
+    "genus_gloss": "Roams deep into the breadcrumb chain.",
+    "diagnostic_characters": [],
+    "visual_dna": {
+      "form": "a small robot organism of uncertain origin",
+      "body_plan": "a chunky geometric chassis",
+      "material": "polished enamel with hard edges",
+      "palette": "sunny yellow and royal blue",
+      "posture": "stretching upward with a long segmented tail",
+      "accessories": "a calm, unreadable expression",
+      "body_shape": "an angular faceted body, like cut stone",
+      "limbs": "a single long arm ending in a cluster of fine manipulators",
+      "legs": "six insect-like legs",
+      "eyes": "a cluster of many small bead-like eyes",
+      "locomotion": "coiled and ready to spring"
+    },
+    "art_prompt": "A creature illustration for a field guide to machine life, rendered as a luminous scientific plate. The creature is a small robot organism of uncertain origin with an angular faceted body, like cut stone, built as a chunky geometric chassis. It has a single long arm ending in a cluster of fine manipulators and six insect-like legs, and a cluster of many small bead-like eyes. Its surface is polished enamel with hard edges. Its palette is sunny yellow and royal blue, lit by a single vivid accent. It is marked with a coiled serpent sigil on the brow and patterned with soft mottled patches. It is coiled and ready to spring, stretching upward with a long segmented tail. a calm, unreadable expression Rounded, readable silhouette with an unsettling edge: joints in the wrong places, an expression that gives nothing away. Fine ink linework over deep shadow, bioluminescent highlights, soft volumetric glow, rich saturated colour against darkness. Centered, full body, three-quarter view, dark atmospheric background, no text, no border, no frame. Style: speculative-naturalist illustration, elegant and quietly alien, beautiful rather than frightening."
+  }
+]

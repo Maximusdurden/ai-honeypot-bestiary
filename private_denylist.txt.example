@@ -1,0 +1,20 @@
+# Private deny-list — NEVER COMMIT THIS FILE
+#
+# Literal identifiers that cannot be recognised by shape: GCP project ids, hosted
+# zone names, bucket names that look like ordinary slugs, internal hostnames.
+#
+# `tests/test_no_private_leakage.py` reads this file when it exists and fails if
+# any value appears anywhere in the tree. When the file is absent (as it is in
+# the published repo) that check is skipped and only the shape rules run.
+#
+# This indirection exists because the alternative -- listing real identifiers in
+# the published test -- would leak exactly what the test is meant to protect.
+#
+# One value per line. `#` starts a comment. Matching is plain substring, so keep
+# entries specific enough to avoid false positives.
+#
+# Example entries (these are placeholders, replace with real values):
+#
+#   my-gcp-project-id
+#   my-art-bucket-name
+#   internal-hostname.example.internal

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this taxonomy or the visual DNA scheme, cite it as below."
+title: "ai-honeypot-bestiary: a Linnaean taxonomy for web agents"
+abstract: >-
+  An interpretation layer that classifies already-captured web traffic into a
+  seven-rank Linnaean taxonomy, groups observations into species, and derives a
+  deterministic visual identity from each species signature.
+type: software
+authors:
+  - family-names: Swymer
+    given-names: Derrick
+license: MIT
+repository-code: "https://github.com/Maximusdurden/ai-honeypot-bestiary"
+keywords:
+  - bot detection
+  - ai agents
+  - crawlers
+  - honeypot
+  - taxonomy
+  - bestiary
+version: 0.1.0
+date-released: "2026-11-09"
