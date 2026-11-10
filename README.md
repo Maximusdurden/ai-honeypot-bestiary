@@ -61,7 +61,7 @@ It is a **dry run by default**. `--live` requires an API key and is the only way
 to spend money.
 
 ```bash
-pytest                                  # 190 tests
+pytest        # 191 tests; one skips without a private deny-list (see below)
 ```
 
 ---
@@ -183,18 +183,33 @@ training corpora and stops proving anything. This package defaults it to empty.
 
 ## Publishing safely
 
-The private/public split is enforced by `tests/test_no_private_leakage.py`, which
-scans every file for the things that would constitute a leak:
+The private/public split is enforced by `tests/test_no_private_leakage.py`, in two
+layers.
 
-- infrastructure identifiers (project ids, Cloud Run hosts, bucket names)
-- credentials and webhook URLs, by shape (`AIza…`, `sk-or-v1-…`, `ghp_…`, PEM)
-- this project's own canary tokens
-- detector internals by name
+**Layer 1 — shape rules, published.** Nothing here names a real identifier,
+because a published test that lists the values it bans leaks exactly what it is
+meant to protect. Instead the rules match shapes:
+
+- Cloud Run hostnames, revision suffixes, and persona-named project ids
+- project-prefixed object-storage URLs
+- credentials and webhooks by shape (Google API keys, OpenRouter keys, GitHub
+  tokens, PEM private keys, Discord and Slack webhook URLs)
+- this project's own canary shape
+- detector tables, by name
 - any 24+ character string assigned to something secret-shaped
-- the absence of high-risk files (`.env`, canaries, credentials)
 
-It is deliberately paranoid and file-oriented. Most failures are real. If you add
-a file and that test goes red, the fix is almost never to add an allow-list entry.
+**Layer 2 — literal deny-list, private.** Some identifiers cannot be recognised by
+shape: a bare project id looks like any other slug. Those go in
+`private_denylist.txt`, which is git-ignored. When the file is present the test
+checks it; when it is absent — as it is here — that check skips and layer 1 still
+runs.
+
+This gives a maintainer the strong check locally without weakening the published
+one. It is the single most important design decision in the repo, and it was
+arrived at by watching layer 1 try to hardcode the real values and fail.
+
+The guard is deliberately paranoid. Most failures are real. If you add a file and
+it goes red, the fix is almost never an allow-list entry.
 
 ---
 
@@ -212,7 +227,7 @@ src/bestiary/
   config.py         settings from environment
 fixtures/           synthetic corpus + generator
 scripts/            build_field_guide.py, generate_art.py
-tests/              190 tests, including the leakage guard
+tests/              191 tests, including the leakage guard
 ```
 
 ## License
